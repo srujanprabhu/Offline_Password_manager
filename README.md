@@ -3,7 +3,7 @@
 
 A secure and user-friendly password manager application built in Python with a sleek GUI. This application empowers users to effortlessly manage and organize their passwords, providing a reliable solution for both security and convenience.
 
-Features
+**Features**
 
 Intuitive GUI: The application boasts an intuitive graphical user interface, making it accessible to users of all levels.
 
